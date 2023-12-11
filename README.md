@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rohan Karki</h1>
-<h3 align="center">A passionate Full Stack developer from Nepal</h3>
+<img width="1834" alt="Make your README (1)" src="https://github.com/rohankarki07/rohankarki07/assets/109032289/ed10210f-1cb0-499a-a0c7-eb4f01991de6">
+<img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="Animated Image" width="500" align="right" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohankarki07&label=Profile%20views&color=0e75b6&style=flat" alt="rohankarki07" /> </p>
 
