@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohankarki07&label=Profile%20views&color=0e75b6&style=flat" alt="rohankarki07" /> </p>
 
-- 🔭 I’m currently working on **my Final Year Project**
+- 🔭 I’m currently working on **Web development**
 
 - 🌱 I’m currently learning **TypeScript**
 
