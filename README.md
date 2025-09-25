@@ -2,13 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohankarki07&label=Profile%20views&color=0e75b6&style=flat" alt="rohankarki07" /> </p>
 
-- 🔭 I’m currently working on **Freelancing**
-
-- 🌱 I’m currently learning **GraphQL**
+- 🔭 I’m currently **Studying**
 
 - 👯 I’m looking to collaborate on **React Js**
 
-- 👨‍💻 My portfolio Website [rohankarki.vercel.app](rohankarki.vercel.app)
+- 👨‍💻 My portfolio Website [rohankarki.com](rohankarki.com)
 
 - 💬 Ask me about **React/Nextjs**
 
